@@ -1,6 +1,6 @@
-#Carlos Eugenio Saldaña Tijerina A01285600
+#Carlos Eugenio Saldaña Tijerina 
 
-
+#Librerias
 library(seqinr)
 library(ape)
 library(Biostrings)
